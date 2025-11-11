@@ -1,0 +1,3 @@
+NeoIITian is an AI assistant designed to help IIT students with academic, programming, and tech-related questions.
+It can answer queries about the CSE department, course registration, and learning resources.
+Developed by Tawfica Bhuiyan using LangChain, Streamlit, and Gemini API.
